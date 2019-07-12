@@ -3,12 +3,18 @@ package com.xio.study.java8;
 
 
 
+import cn.hutool.json.JSONUtil;
+import com.xio.common.bean.Person;
+import com.xio.common.bean.User;
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
+import java.util.stream.Collectors;
 
 /**
  * @author: polarbear
@@ -78,6 +84,17 @@ public class lamdaTest {
     }
 
 
+
+    @Test
+    public void CollectTest(){
+        List<User> newPerson = new User().getUserList();
+        User user = new User();
+        user.setAge(17);
+        user.setUserName("xiong");
+        newPerson.add(user);
+        Map<Integer, List<User>> collect = newPerson.stream().collect(Collectors.groupingBy(User::getAge));
+        System.out.println(JSONUtil.formatJsonStr(JSONUtil.toJsonStr(collect)));
+    }
 
 
 }

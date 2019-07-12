@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSe/JavaSe.iml" filepath="$PROJECT_DIR$/JavaSe/JavaSe.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test_Demo.iml" filepath="$PROJECT_DIR$/Test_Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springresource/springresource.iml" filepath="$PROJECT_DIR$/springresource/springresource.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_center/try_center.iml" filepath="$PROJECT_DIR$/try_center/try_center.iml" />
     </modules>
   </component>

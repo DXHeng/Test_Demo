@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springresource" />
         <module name="try_center" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="try_center" target="1.5" />
+      <module name="springresource" target="8" />
+      <module name="try_center" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
