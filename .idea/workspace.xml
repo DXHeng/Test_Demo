@@ -1,263 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5377a2a-65a6-4b82-8700-69b606a38a11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/B_JDKProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/C_CglibProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/MyTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+    <list default="true" id="e3c89c89-63e1-4e26-9624-fb86b9031817" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Test_Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/thread/question1/Advertisement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_4_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hutool_all_4_5_16_javadoc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/JavaSe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/JavaSe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/mysort/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/com/xio/study/mysort/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/META-INF/JavaSe.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/mysort/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/client/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/ServerCenter$ServiceTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/ServerCenter$ServiceTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/ServerCenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/ServerCenter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/client/proxy/RpcProxyClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/client/proxy/RpcProxyClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/server/proxy/RpcProxyServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/server/proxy/RpcProxyServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/JavaSe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/common/bean/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/common/bean/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/common/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/common/bean/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/annotation/JDK/annotaionDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/annotation/JDK/annotaionDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/B_JDKProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/aop/B_JDKProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/C_CglibProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/aop/C_CglibProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/coll/collTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/coll/collTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/java8/lamdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/java8/lamdaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/mysort/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/mysort/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/RpcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/RpcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/IHelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/server/IHelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/IRpcService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/server/IRpcService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/impl/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/server/impl/HelloServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/impl/ServerCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/server/impl/ServerCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/client/RpcClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/client/RpcClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/client/proxy/RpcProxyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/client/proxy/RpcProxyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/RpcServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/server/RpcServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/proxy/RpcProxyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/server/proxy/RpcProxyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/service/IHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/server/service/IHello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/service/impl/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/server/service/impl/HelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/stream/DataReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/stream/DataReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/stream/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/stream/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/MyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/thread/MyTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/thread/TestPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/thread/TestThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/common/bean/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/common/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/annotation/JDK/annotaionDetail$Chinese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/annotation/JDK/annotaionDetail$Country.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/annotation/JDK/annotaionDetail$SiChuanese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/annotation/JDK/annotaionDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/coll/collTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/java8/lamdaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/RpcTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/IHelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/IRpcService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/HelloServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/ServerCenter$ServiceTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/ServerCenter$TimerTaskThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/ServerCenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/client/RpcClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/client/proxy/RpcProxyClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/server/RpcServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/server/proxy/RpcProxyServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/server/service/IHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/server/service/impl/HelloService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/stream/DataReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/stream/StreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/springresource.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/src/main/java/com/xio/ref/BeanClazz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/src/main/java/com/xio/service/DocumentHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/src/main/java/com/xio/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/src/main/java/com/xio/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/src/main/java/com/xio/springresource/MyApplicationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/src/main/resources/applicationfile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/target/classes/META-INF/springresource.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/target/classes/applicationfile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/target/classes/com/xio/ref/BeanClazz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/target/classes/com/xio/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/target/classes/com/xio/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springresource/target/classes/com/xio/springresource/MyApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/try_center/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/try_center/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/try_center/target/classes/com/xio/orgin/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/try_center/target/classes/com/xio/orgin/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/try_center/target/classes/com/xio/orgin/config/ConfigurationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/try_center/try_center.iml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/commonlib/target/" />
+    <ignored path="$PROJECT_DIR$/common-lib/target/" />
+    <ignored path="$PROJECT_DIR$/JavaSe/target/" />
     <ignored path="$PROJECT_DIR$/try_center/target/" />
-    <ignored path="$PROJECT_DIR$/springresource/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestThreadPool.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#846#847#0" expanded="true" />
-                <element signature="e#889#890#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ThreadFactory.java">
+        <entry file="file://$PROJECT_DIR$/try_center/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="52" column="45" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+            <state relative-caret-position="170">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ExecutorService.java">
+        <entry file="file://$PROJECT_DIR$/JavaSe/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1938">
-              <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+            <state relative-caret-position="391">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+        <entry file="file://$PROJECT_DIR$/common-lib/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22078">
-              <caret line="1219" column="53" selection-start-line="1219" selection-start-column="53" selection-end-line="1219" selection-end-column="53" />
+            <state relative-caret-position="425">
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/C_CglibProxy.java">
+        <entry file="file://$PROJECT_DIR$/JavaSe/src/main/java/com/xio/common/bean/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/B_JDKProxy.java">
+        <entry file="file://$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/annotation/JDK/annotaionDetail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/MyTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/mysort/ListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/java8/lamdaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/bean/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="FxmlFile" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>environment</find>
-      <find>doClose</find>
-      <find>MODULE_DIR</find>
-      <find>com.sun.proxy</find>
-      <find>FairSync</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestThreadPool.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/try_center/src/main/java/Application.java" />
-        <option value="$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/config/ConfigurationTest.java" />
-        <option value="$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/bean/User.java" />
-        <option value="$PROJECT_DIR$/try_center/try_center.iml" />
-        <option value="$PROJECT_DIR$/springresource/src/main/resources/applicationfile.xml.fxml" />
-        <option value="$PROJECT_DIR$/springresource/src/main/resources/applicationfile.xml" />
-        <option value="$PROJECT_DIR$/springresource/src/main/java/com/xio/service/UserService.java" />
-        <option value="$PROJECT_DIR$/springresource/src/main/java/com/xio/springresource/myAplicationContext.java" />
-        <option value="$PROJECT_DIR$/springresource/src/main/java/com/xio/springresource/MyApplicationContext.java" />
         <option value="$PROJECT_DIR$/try_center/pom.xml" />
-        <option value="$PROJECT_DIR$/springresource/pom.xml" />
-        <option value="$PROJECT_DIR$/springresource/src/main/java/com/xio/service/DocumentHolder.java" />
-        <option value="$PROJECT_DIR$/springresource/src/main/java/com/xio/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/springresource/src/main/java/com/xio/ref/BeanClazz.java" />
-        <option value="$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/Application.java" />
-        <option value="$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/xio/study/annotation/JDK/annotaionDetail.java" />
-        <option value="$PROJECT_DIR$/src/com/xio/study/coll/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/xio/study/coll/User.java" />
-        <option value="$PROJECT_DIR$/src/com/xio/common/bean/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/xio/common/bean/User.java" />
-        <option value="$PROJECT_DIR$/src/com/xio/study/coll/collTest.java" />
-        <option value="$PROJECT_DIR$/src/com/xio/study/java8/lamdaTest.java" />
-        <option value="$PROJECT_DIR$/JavaSe/JavaSe.iml" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/RPC/server/Server.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/server/Server.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/server/IHelloService.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/server/IRpcService.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/server/ServerCenter.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/server/HelloServiceImpl.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/server/impl/HelloServiceImpl.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/server/impl/ServerCenter.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/RpcTest.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/client/Client.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/client/Client.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/IHello.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/impl/HelloService.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/client/RpcProxyClient.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/impl/ServerCenter.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/RpcServer.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/client/proxy/RpcProxyClient.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/client/RpcClient.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/proxy/RpcProxyServer.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestPool.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/mysort/ListTest.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/java8/lamdaTest.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/MyTask.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/C_CglibProxy.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/B_JDKProxy.java" />
-        <option value="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestThreadPool.java" />
+        <option value="$PROJECT_DIR$/commonlib/pom.xml" />
+        <option value="$PROJECT_DIR$/common-lib/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaSe/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\repository" />
-        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -275,7 +223,6 @@
     <option name="width" value="1934" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -288,187 +235,25 @@
               <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xio" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xio" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xio" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="C_CglibProxy.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xio" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xio" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="TestThreadPool.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="try_center" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="try_center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="try_center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="try_center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="try_center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="try_center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="try_center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xio" type="462c0819:PsiDirectoryNode" />
-              <item name="orgin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="try_center" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xio" type="462c0819:PsiDirectoryNode" />
-              <item name="orgin" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path" value="F:\mozi_project\github_project\Test_Demo\JavaSe\lib" />
-    <property name="Downloaded.Files.Path.Enabled" value="true" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/bean/User.java&#10;F:/mozi_project/Test_Demo/try_center/src/main/java/com/xio/orgin/Application.java" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574704989393" />
-    <property name="ignore_missing_gitignore" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574706959100" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_91" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.5019952" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\mozi_project\github_project\Test_Demo\JavaSe\src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\mozi_project\github_project\Test_Demo\JavaSe\lib" />
-      <recent name="F:\mozi_project\github_project\Test_Demo\lib" />
-    </key>
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -482,766 +267,107 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.C_CglibProxy">
-    <configuration name="RpcClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xio.study.rpc.rpc2.client.RpcClient" />
-      <module name="JavaSe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xio.study.rpc.rpc2.client.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xio.study.thread.TestPool" />
-      <module name="JavaSe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xio.study.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestThread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xio.study.thread.TestThread1" />
-      <module name="JavaSe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xio.study.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xio.study.thread.TestThreadPool" />
-      <module name="JavaSe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xio.study.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C_CglibProxy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaSe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xio.study.aop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.xio.study.aop" />
-      <option name="MAIN_CLASS_NAME" value="com.xio.study.aop.C_CglibProxy" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.C_CglibProxy" />
-        <item itemvalue="Application.TestPool" />
-        <item itemvalue="Application.TestThread1" />
-        <item itemvalue="Application.TestThreadPool" />
-        <item itemvalue="Application.RpcClient" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="StructureViewFactory">
-    <option name="AUTOSCROLL_MODE" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e5377a2a-65a6-4b82-8700-69b606a38a11" name="Default Changelist" comment="" />
-      <created>1561018203439</created>
+      <changelist id="e3c89c89-63e1-4e26-9624-fb86b9031817" name="Default Changelist" comment="" />
+      <created>1574706729133</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561018203439</updated>
-      <workItem from="1561018206699" duration="2239000" />
-      <workItem from="1561098538247" duration="4060000" />
-      <workItem from="1561167468979" duration="1614000" />
-      <workItem from="1561424476647" duration="8215000" />
-      <workItem from="1561771071915" duration="7451000" />
-      <workItem from="1562571509745" duration="2676000" />
-      <workItem from="1562662722854" duration="2047000" />
-      <workItem from="1562902510032" duration="8170000" />
-      <workItem from="1570718025114" duration="1535000" />
-      <workItem from="1570766154033" duration="6250000" />
-      <workItem from="1570868101124" duration="2740000" />
-      <workItem from="1570960984857" duration="1706000" />
-      <workItem from="1571113488629" duration="3299000" />
-      <workItem from="1571926308324" duration="960000" />
+      <updated>1574706729133</updated>
+      <workItem from="1574706731664" duration="538000" />
     </task>
-    <task id="LOCAL-00001" summary="学习测试">
-      <created>1561425495619</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1561425495619</updated>
-    </task>
-    <task id="LOCAL-00002" summary="学习测试">
-      <created>1562904304034</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1562904304034</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="collTest_forEachTest - 2019.07.09 at 17h 07m 52s.xml">
-      <configuration name="collTest.forEachTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="collTest_forEachTest - 2019.07.09 at 17h 12m 16s.xml">
-      <configuration name="collTest.forEachTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="collTest_forEachTest - 2019.07.09 at 17h 12m 48s.xml">
-      <configuration name="collTest.forEachTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="collTest_forEachTest - 2019.07.09 at 17h 13m 26s.xml">
-      <configuration name="collTest.forEachTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="collTest_forEachTest - 2019.07.09 at 17h 14m 10s.xml">
-      <configuration name="collTest.forEachTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="collTest_forEachTest - 2019.07.09 at 17h 14m 28s.xml">
-      <configuration name="collTest.forEachTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="collTest_forEachTest - 2019.07.09 at 17h 17m 18s.xml">
-      <configuration name="collTest.forEachTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lamdaTest_CollectTest - 2019.07.12 at 11h 42m 35s.xml">
-      <configuration name="lamdaTest.CollectTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lamdaTest_CollectTest - 2019.07.12 at 11h 43m 50s.xml">
-      <configuration name="lamdaTest.CollectTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lamdaTest_CollectTest - 2019.07.12 at 11h 54m 44s.xml">
-      <configuration name="lamdaTest.CollectTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52962000" />
+    <option name="totallyTimeSpent" value="538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1934" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49678457" visible="true" weight="0.20837809" />
-      <window_info id="Structure" order="1" sideWeight="0.50321543" side_tool="true" weight="0.24227902" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19172932" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4211111" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.29594016" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32884398" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.2901099" />
-      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.23523094" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Mybatis datasource" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.12193823" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32960597" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info active="true" anchor="right" id="Database" order="6" visible="true" weight="0.14661655" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="学习测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习测试" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="rpcClient" />
-      </configuration>
-    </watches-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/Assert.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE-sources.jar!/org/springframework/context/annotation/Bean.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE-sources.jar!/org/springframework/context/annotation/ScopedProxyMode.java" />
-    <entry file="file://$PROJECT_DIR$/out/production/Test_Demo/com/xio/study/coll/collTest.class" />
-    <entry file="file://$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/config/ConfigurationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/try_center/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonlib/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-lib/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSe/src/main/java/com/xio/common/bean/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/annotation/JDK/annotaionDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSe/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
           <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xio/common/bean/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/xio/common/bean/User.java" />
-    <entry file="file://$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xio/study/java8/lamdaTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/xio/study/coll/collTest.java" />
-    <entry file="file://$PROJECT_DIR$/Test_Demo.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/JavaSe.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/IHelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/IRpcService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/impl/HelloServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/net/Socket.java" />
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/service/impl/HelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/service/IHello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/proxy/RpcProxyServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/impl/ServerCenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/client/RpcClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/RpcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/client/proxy/RpcProxyClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/RpcServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="33" column="2" lean-forward="true" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/coll/collTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="16" selection-start-line="16" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/annotation/JDK/annotaionDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/stream/DataReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-621">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock.FairSync">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.locks.ReentrantLock.FairSync</OriginalElement>
-          <nodes>
-            <node x="74.0" y="170.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
-            <node x="144.5" y="340.0">java.util.concurrent.locks.ReentrantLock.FairSync</node>
-            <node x="156.5" y="255.0">java.util.concurrent.locks.ReentrantLock.Sync</node>
-            <node x="0.0" y="85.0">java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
-            <node x="133.5" y="0.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
-              <point x="0.0" y="-17.5" />
-              <point x="0.0" y="17.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
-              <point x="-64.25" y="-17.5" />
-              <point x="138.25" y="145.0" />
-              <point x="131.5" y="145.0" />
-              <point x="0.0" y="17.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.io.Serializable">
-              <point x="64.25" y="-17.5" />
-              <point x="266.75" y="145.0" />
-              <point x="273.5" y="145.0" />
-              <point x="273.5" y="60.0" />
-              <point x="237.0" y="60.0" />
-              <point x="34.5" y="17.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.AbstractOwnableSynchronizer" target="java.io.Serializable">
-              <point x="0.0" y="-17.5" />
-              <point x="131.5" y="60.0" />
-              <point x="168.0" y="60.0" />
-              <point x="-34.5" y="17.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.ReentrantLock.FairSync" target="java.util.concurrent.locks.ReentrantLock.Sync">
-              <point x="0.0" y="-17.5" />
-              <point x="0.0" y="17.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-206.0" y="137.0" />
-          <SelectedNodes>
-            <node>java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock.NonfairSync">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.locks.ReentrantLock.NonfairSync</OriginalElement>
-          <nodes>
-            <node x="72.0" y="231.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
-            <node x="103.0" y="586.0">java.util.concurrent.locks.ReentrantLock.Sync</node>
-            <node x="-2.0" y="86.0">java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
-            <node x="105.0" y="704.0">java.util.concurrent.locks.ReentrantLock.NonfairSync</node>
-            <node x="133.0" y="-10.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
-              <point x="0.0" y="-30.5" />
-              <point x="0.0" y="160.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
-              <point x="-72.5" y="-160.5" />
-              <point x="146.5" y="197.0" />
-              <point x="142.5" y="197.0" />
-              <point x="0.0" y="43.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.ReentrantLock.NonfairSync" target="java.util.concurrent.locks.ReentrantLock.Sync">
-              <point x="0.0" y="-30.5" />
-              <point x="0.0" y="30.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.io.Serializable">
-              <point x="72.5" y="-160.5" />
-              <point x="291.5" y="197.0" />
-              <point x="295.5" y="197.0" />
-              <point x="295.5" y="60.0" />
-              <point x="253.5" y="60.0" />
-              <point x="34.5" y="17.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.AbstractOwnableSynchronizer" target="java.io.Serializable">
-              <point x="0.0" y="-43.5" />
-              <point x="142.5" y="60.0" />
-              <point x="184.5" y="60.0" />
-              <point x="-34.5" y="17.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="165.0" y="372.0" />
-          <SelectedNodes>
-            <node>java.util.concurrent.locks.ReentrantLock.Sync</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="79" column="29" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock.Sync">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.locks.ReentrantLock.Sync</OriginalElement>
-          <nodes>
-            <node x="74.0" y="170.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
-            <node x="156.5" y="255.0">java.util.concurrent.locks.ReentrantLock.Sync</node>
-            <node x="0.0" y="85.0">java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
-            <node x="133.5" y="0.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
-              <point x="0.0" y="-17.5" />
-              <point x="0.0" y="17.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
-              <point x="-64.25" y="-17.5" />
-              <point x="138.25" y="145.0" />
-              <point x="131.5" y="145.0" />
-              <point x="0.0" y="17.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.io.Serializable">
-              <point x="64.25" y="-17.5" />
-              <point x="266.75" y="145.0" />
-              <point x="273.5" y="145.0" />
-              <point x="273.5" y="60.0" />
-              <point x="237.0" y="60.0" />
-              <point x="34.5" y="17.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.AbstractOwnableSynchronizer" target="java.io.Serializable">
-              <point x="0.0" y="-17.5" />
-              <point x="131.5" y="60.0" />
-              <point x="168.0" y="60.0" />
-              <point x="-34.5" y="17.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-202.0" y="-28.0" />
-          <SelectedNodes>
-            <node>java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.locks.ReentrantLock</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">java.util.concurrent.locks.Lock</node>
-            <node x="34.5" y="85.0">java.util.concurrent.locks.ReentrantLock</node>
-            <node x="112.0" y="0.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="java.util.concurrent.locks.ReentrantLock" target="java.util.concurrent.locks.Lock">
-              <point x="-39.5" y="-17.5" />
-              <point x="74.0" y="60.0" />
-              <point x="46.0" y="60.0" />
-              <point x="0.0" y="17.5" />
-            </edge>
-            <edge source="java.util.concurrent.locks.ReentrantLock" target="java.io.Serializable">
-              <point x="39.5" y="-17.5" />
-              <point x="153.0" y="60.0" />
-              <point x="181.0" y="60.0" />
-              <point x="0.0" y="17.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-243.0" y="-113.0" />
-          <SelectedNodes>
-            <node>java.util.concurrent.locks.ReentrantLock</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="115" column="53" selection-start-line="115" selection-start-column="53" selection-end-line="115" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#8451#8452#0" expanded="true" />
-            <element signature="e#8515#8516#0" expanded="true" />
-            <element signature="e#12210#12211#0" expanded="true" />
-            <element signature="e#12258#12259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4769">
-          <caret line="288" column="22" selection-start-line="288" selection-start-column="22" selection-end-line="288" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/client/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="52" column="45" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22078">
-          <caret line="1219" column="53" selection-start-line="1219" selection-start-column="53" selection-end-line="1219" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/C_CglibProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/B_JDKProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/MyTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/mysort/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaSe/src/com/xio/study/java8/lamdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/bean/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1254,14 +380,15 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.5019952" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
         </settings>
       </state>
-      <state key="Copyright.UI">
+      <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1271,21 +398,8 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.5019952" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.12.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1297,31 +411,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.5019952" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>JavaSe</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.5019952" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8.0_91</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1331,24 +421,25 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectLibrariesConfigurable.UI">
+      <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <last-edited>common-lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.5019952" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ScopeChooserConfigurable.UI">
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.5019952" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
