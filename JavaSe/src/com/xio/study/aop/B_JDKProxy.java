@@ -35,7 +35,7 @@ public class B_JDKProxy {
         proxyDao.save();
     }
 
-}j
+}
 
 class UserDaoImpl02 extends UserDao {
 
