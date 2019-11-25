@@ -1,5 +1,7 @@
 package com.xio.study.mysort;
 
+import java.util.LinkedList;
+
 /**
  * @author: polarbear
  * @Date: 2019/6/22 09:41
@@ -23,7 +25,12 @@ public class ListTest {
      *
      */
 
+    public static void main(String[] args) {
 
+        LinkedList<Object> objects = new LinkedList<>();
+
+
+    }
 
 
 
