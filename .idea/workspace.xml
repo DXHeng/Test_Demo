@@ -2,122 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3c89c89-63e1-4e26-9624-fb86b9031817" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Test_Demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/thread/question1/Advertisement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common-lib/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_4_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/hutool_all_4_5_16_javadoc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSe/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-lib/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/JavaSe.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/common/bean/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/common/bean/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/common/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/common/bean/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/annotation/JDK/annotaionDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/annotation/JDK/annotaionDetail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/B_JDKProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/aop/B_JDKProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/aop/C_CglibProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/aop/C_CglibProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/coll/collTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/coll/collTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/java8/lamdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/java8/lamdaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/mysort/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/mysort/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/RpcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/RpcTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/client/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/IHelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/server/IHelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/IRpcService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/server/IRpcService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/server/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/impl/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/server/impl/HelloServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc1/server/impl/ServerCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc1/server/impl/ServerCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/client/RpcClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/client/RpcClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/client/proxy/RpcProxyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/client/proxy/RpcProxyClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/RpcServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/server/RpcServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/proxy/RpcProxyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/server/proxy/RpcProxyServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/service/IHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/server/service/IHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/rpc/rpc2/server/service/impl/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/rpc/rpc2/server/service/impl/HelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/stream/DataReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/stream/DataReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/stream/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/stream/StreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/MyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/thread/MyTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/thread/TestPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSe/src/com/xio/study/thread/TestThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/thread/TestThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/common/bean/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/common/bean/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/annotation/JDK/annotaionDetail$Chinese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/annotation/JDK/annotaionDetail$Country.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/annotation/JDK/annotaionDetail$SiChuanese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/annotation/JDK/annotaionDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/coll/collTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/java8/lamdaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/RpcTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/client/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/IHelloService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/IRpcService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/HelloServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/ServerCenter$ServiceTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/ServerCenter$TimerTaskThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc1/server/impl/ServerCenter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/client/RpcClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/client/proxy/RpcProxyClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/server/RpcServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/server/proxy/RpcProxyServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/server/service/IHello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/rpc/rpc2/server/service/impl/HelloService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/stream/DataReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSe/com/xio/study/stream/StreamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSe/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/springresource.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/src/main/java/com/xio/ref/BeanClazz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/src/main/java/com/xio/service/DocumentHolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/src/main/java/com/xio/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/src/main/java/com/xio/service/impl/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/src/main/java/com/xio/springresource/MyApplicationContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/src/main/resources/applicationfile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/target/classes/META-INF/springresource.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/target/classes/applicationfile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/target/classes/com/xio/ref/BeanClazz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/target/classes/com/xio/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/target/classes/com/xio/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springresource/target/classes/com/xio/springresource/MyApplicationContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try_center/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/try_center/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/try_center/src/main/java/com/xio/orgin/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try_center/target/classes/com/xio/orgin/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try_center/target/classes/com/xio/orgin/bean/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try_center/target/classes/com/xio/orgin/config/ConfigurationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try_center/try_center.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/commonlib/target/" />
     <ignored path="$PROJECT_DIR$/common-lib/target/" />
@@ -133,58 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/try_center/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaSe/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common-lib/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaSe/src/main/java/com/xio/common/bean/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaSe/src/main/java/com/xio/study/annotation/JDK/annotaionDetail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-173">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -202,6 +43,8 @@
         <option value="$PROJECT_DIR$/common-lib/pom.xml" />
         <option value="$PROJECT_DIR$/JavaSe/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
       </list>
     </option>
   </component>
@@ -235,6 +78,16 @@
               <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="common-lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test_Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSe" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -245,8 +98,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574706959100" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574707618925" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_91" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -254,6 +108,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -268,7 +123,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\polarbear\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -277,29 +132,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574706729133</updated>
-      <workItem from="1574706731664" duration="538000" />
+      <workItem from="1574706731664" duration="622000" />
+      <workItem from="1574707379936" duration="239000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1574707286961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574707286961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="538000" />
+    <option name="totallyTimeSpent" value="935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1934" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19172932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14876477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -307,20 +165,30 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.23523094" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Mybatis datasource" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.23523094" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/try_center/pom.xml">
@@ -330,9 +198,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commonlib/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/commonlib/pom.xml" />
     <entry file="file://$PROJECT_DIR$/common-lib/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -366,8 +232,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="493">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSe/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-lib/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
